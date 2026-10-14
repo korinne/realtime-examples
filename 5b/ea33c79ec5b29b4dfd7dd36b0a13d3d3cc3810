@@ -1,0 +1,19 @@
+pipecat-voice-agent/wrangler.jsonc
+  s_7abf14402ed057::t_b2fa0cb579b3df 27-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5bea33c79ec5b29b4dfd7dd36b0a13d3d3cc3810",
+  "prompts": {},
+  "sessions": {
+    "s_7abf14402ed057": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57d4b02a-7b49-4023-9948-1c43cab16658",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "korinne <korinne@cloudflare.com>"
+    }
+  }
+}
