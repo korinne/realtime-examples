@@ -1,0 +1,29 @@
+pipecat-voice-agent/DESIGN.md
+  s_7abf14402ed057::t_a230c7b0d73010 174-175,261-270,288
+pipecat-voice-agent/web/src/components/CallStage.tsx
+  s_7abf14402ed057::t_987b53b24c9233 2,4,39,58-59,61,63-64
+pipecat-voice-agent/web/src/styles.css
+  s_7abf14402ed057::t_91da38c4b1d679 27-29,31-35
+pipecat-voice-agent/web/src/components/AsciiField.tsx
+  s_7abf14402ed057::t_4e8c94b12f728f 1-233
+pipecat-voice-agent/web/src/components/Orb.tsx
+  s_7abf14402ed057::t_a82de2dd8c8c4d 3-4,8-12,24-33,63,69-71,108,120,146-147,150,242,244-245,252-253,255-257,267-270,276-277,290,340-342
+pipecat-voice-agent/web/src/lib/canvas-theme.ts
+  s_7abf14402ed057::t_0f2dee04c7b905 1-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a6838d30cc833b2ab68fc91270c0dde0baa9fcb3",
+  "prompts": {},
+  "sessions": {
+    "s_7abf14402ed057": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57d4b02a-7b49-4023-9948-1c43cab16658",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "korinne <korinne@cloudflare.com>"
+    }
+  }
+}
