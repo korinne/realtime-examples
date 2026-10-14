@@ -1,0 +1,27 @@
+pipecat-voice-agent/DESIGN.md
+  s_7abf14402ed057::t_a17cb947f05f9a 175,266-268
+pipecat-voice-agent/web/src/components/CallStage.tsx
+  s_7abf14402ed057::t_658c6799edf1b5 2,51-52
+pipecat-voice-agent/web/src/components/Orb.tsx
+  s_7abf14402ed057::t_172d7f251094e7 3,249
+pipecat-voice-agent/web/src/lib/canvas-theme.ts
+  s_7abf14402ed057::t_dd3b5cdd157c6e 2-4
+pipecat-voice-agent/web/src/styles.css
+  s_7abf14402ed057::t_e54188624fd418 27-29,31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "aec05e94444c7207affc1f0883ef418e5a95d6fb",
+  "prompts": {},
+  "sessions": {
+    "s_7abf14402ed057": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57d4b02a-7b49-4023-9948-1c43cab16658",
+        "model": "unknown"
+      },
+      "human_author": "korinne <korinne@cloudflare.com>"
+    }
+  }
+}
