@@ -1,0 +1,21 @@
+pipecat-voice-agent/src/server/call.py
+  s_7abf14402ed057::t_a4a3cdef14eed2 32-33,151,260-271,273-276,304-317,337
+pipecat-voice-agent/tests/server/test_call.py
+  s_7abf14402ed057::t_a27fb697c2b336 12,16-26,118,123,125,130,135-215
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "863b1f59e1d080fb191fe05e1a5fa14e302a876f",
+  "prompts": {},
+  "sessions": {
+    "s_7abf14402ed057": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57d4b02a-7b49-4023-9948-1c43cab16658",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "korinne <korinne@cloudflare.com>"
+    }
+  }
+}
