@@ -1,0 +1,19 @@
+pipecat-voice-agent/web/src/components/Orb.tsx
+  s_7abf14402ed057::t_892b3582d1b231 289-296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "da01ae7b1b90386f66e0f7b7a158ade2b55b1688",
+  "prompts": {},
+  "sessions": {
+    "s_7abf14402ed057": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57d4b02a-7b49-4023-9948-1c43cab16658",
+        "model": "unknown"
+      },
+      "human_author": "korinne <korinne@cloudflare.com>"
+    }
+  }
+}
