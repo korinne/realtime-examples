@@ -1,0 +1,19 @@
+pipecat-voice-agent/web/src/hooks/useVoiceCall.ts
+  s_7abf14402ed057::t_ad3b9d0afda89a 21-23,25,36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a2bc980de88d3ce315bf2e5388b206eb4cbbe30c",
+  "prompts": {},
+  "sessions": {
+    "s_7abf14402ed057": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57d4b02a-7b49-4023-9948-1c43cab16658",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "korinne <korinne@cloudflare.com>"
+    }
+  }
+}
