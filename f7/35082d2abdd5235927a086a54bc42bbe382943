@@ -1,0 +1,43 @@
+pipecat-voice-agent/docs/development.md
+  s_7abf14402ed057::t_32d34efa58968e 44-45
+pipecat-voice-agent/src/server/call.py
+  s_7abf14402ed057::t_809c8baf93b0e9 126-130
+pipecat-voice-agent/src/server/routes.py
+  s_7abf14402ed057::t_177d198b55cfe3 64
+pipecat-voice-agent/tests/client/call.test.ts
+  s_7abf14402ed057::t_d98e08825752a9 56-82
+pipecat-voice-agent/tests/server/test_call.py
+  s_7abf14402ed057::t_eb2d3d2e0b2099 95-104
+pipecat-voice-agent/tests/server/test_routes.py
+  s_7abf14402ed057::t_079743f7454730 19,62-74
+pipecat-voice-agent/web/src/App.tsx
+  s_7abf14402ed057::t_7a3e859e244f66 67
+pipecat-voice-agent/web/src/components/StartCall.tsx
+  s_7abf14402ed057::t_3cdf4041b395ef 14,23-24,40,49,55,58-65
+pipecat-voice-agent/web/src/components/VoiceRoom.tsx
+  s_7abf14402ed057::t_640f736d6022dc 26,39,82
+pipecat-voice-agent/web/src/hooks/useVoiceCall.ts
+  s_7abf14402ed057::t_f55a7b2c969696 4-7,21-33
+pipecat-voice-agent/web/src/lib/contracts.ts
+  s_7abf14402ed057::t_6e26b36a4240c8 134
+pipecat-voice-agent/web/src/preview/PreviewApp.tsx
+  s_7abf14402ed057::t_eb76c38d7295e1 67
+pipecat-voice-agent/web/src/voice/call.ts
+  s_7abf14402ed057::t_7474456188efff 7,20-21,57-60,66-67,96-111,114-115
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f735082d2abdd5235927a086a54bc42bbe382943",
+  "prompts": {},
+  "sessions": {
+    "s_7abf14402ed057": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57d4b02a-7b49-4023-9948-1c43cab16658",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "korinne <korinne@cloudflare.com>"
+    }
+  }
+}
