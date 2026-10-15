@@ -1,0 +1,38 @@
+pipecat-voice-agent/tests/server/test_audio_output.py
+  s_7abf14402ed057::t_83521406bc3e4d 393-396
+  s_7abf14402ed057::t_fd3277139040da 9,43,174,386-392,397-408
+pipecat-voice-agent/wrangler.jsonc
+  s_7abf14402ed057::t_1e528c096194dc 8-9
+pipecat-voice-agent/docs/agent.md
+  s_7abf14402ed057::t_e838af98ef0f17 14
+  s_7abf14402ed057::t_7aaae7e2460b78 13
+pipecat-voice-agent/NOTICE.md
+  s_7abf14402ed057::t_eec0f7841fd3c4 17-20
+pipecat-voice-agent/src/transport/thinking.py
+  s_7abf14402ed057::t_0b28e78a80e1d3 1-4,7-8,10,12-16,19,21-28,35-82
+  s_7abf14402ed057::t_31fd10e7c91569 5-6,9,11,17-18,20,29-34
+pipecat-voice-agent/tests/server/test_thinking.py
+  s_7abf14402ed057::t_ebc328019d11c7 1-36
+pipecat-voice-agent/src/agent/pipeline.py
+  s_7abf14402ed057::t_94fedac9dd9ce5 27,36
+  s_7abf14402ed057::t_3114e666ac7938 205-214,222
+pipecat-voice-agent/src/transport/output.py
+  s_7abf14402ed057::t_7cc224ecad1d90 153-154
+  s_7abf14402ed057::t_abce67758e3384 15-16,32,65,84,103,155,245-246,249-252
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e22dafb862310c4f6983eccc29d455efeb4dbed5",
+  "prompts": {},
+  "sessions": {
+    "s_7abf14402ed057": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57d4b02a-7b49-4023-9948-1c43cab16658",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "korinne <korinne@cloudflare.com>"
+    }
+  }
+}
